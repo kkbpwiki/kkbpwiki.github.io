@@ -1,8 +1,4 @@
----
-layout: default
----
-
-# Armature
+## Armature
 
 ## KKBP Armature
 
