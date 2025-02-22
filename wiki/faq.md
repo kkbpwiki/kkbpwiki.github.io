@@ -1,4 +1,4 @@
-## Frequency asked questions
+## Frequently asked questions
 
 ## I don't know what versions of the programs or addons to use
 Check the table below. KKBP has been updated many times to keep up with newer Blender versions and is **not** backwards compatible, so the version of KKBP you need to use depends on what your Blender version is.
