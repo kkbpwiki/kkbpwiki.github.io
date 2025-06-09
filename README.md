@@ -24,7 +24,7 @@
    
 1. Install <a style="font-weight:bold" href="https://extensions.blender.org/add-ons/mmd-tools/">mmd_tools</a> in Blender
    
-1. Install <a style="font-weight:bold" href="https://github.com/FlailingFog/KK-Blender-Porter-Pack/releases">KKBP Importer 8.0.0</a> in Blender
+1. Install <a style="font-weight:bold" href="https://github.com/FlailingFog/KK-Blender-Porter-Pack/releases">KKBP Importer 8.0</a> in Blender
    
 1. After you install both addons, you can click the "Import model" button in the KKBP panel. [An explanation of all import options can be found here](import_panel)   
 ![ ](https://raw.githubusercontent.com/kkbpwiki/kkbpwiki.github.io/master/assets/images/importpanel2.png)
