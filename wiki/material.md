@@ -54,7 +54,7 @@ Gag02 images are animated by continuosly changing the location of the UV map ove
 
 Gag eyes use drivers to determine what expression to display. When you activate a gag shapekey on the Body object, certain eye materials are moved back into the head to hide them, the gag eye mesh comes out to the front of the head and an image is displayed depending on which gag shapekey was activated.
 
-The default import comes with settings that make the face area behind the gag eyes look bad. Disabling the face eyeshadow intensity, setting the face rim to "None", and using the features in the "Permanent light / dark settings" section below can help with that.
+The default import comes with settings that make the face area behind the gag eyes look bad. Disabling the face eyeshadow intensity and making the face permanentally by using the features in the "Permanent light / dark settings" section below can help with that.
 
 ![image](https://raw.githubusercontent.com/kkbpwiki/kkbpwiki.github.io/master/assets/images/mat7.png)
 
